@@ -1,5 +1,4 @@
-# Operations module. Contains methods to
-# interact with the user
+# Operations module.
 
 from inventory import Inventory as Inv
 
